@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @brenoBorsoi
-- 👀 I’m interested in Study, Learn and work
-- 🌱 I’m currently learning Java and JavaScript
-- 💞️ I’m looking to collaborate on any java or javaspring project as a paid or voluntary work 
-- 📫 How to reach me +5527999996886 phone and whatsapp or email: brenoborsoi@gmail.com
-- 👨‍🏭 Now I'm working on a social project from Vale, (Vale nas escolas) as robotics and programming instructor.
-
-
+- 👋 Hi, I’m @brenoBorsoi  
+- 👀 I’m interested in studying, learning, and working  
+- 🌱 I’m currently learning **DevOps** — [Check out my learning roadmap](https://roadmap.sh/u/brenoborsoi)  
+- 💞️ I’m looking to collaborate on any DevOps-related projects, either paid or voluntary  
+- 📫 You can reach me via WhatsApp or phone: +55 27 99999-6886, or by email: brenoborsoi@gmail.com  
+- 👨‍🏭 I'm currently working on a social project from Vale (*Vale nas Escolas*) as a robotics and programming instructor  
+- 💼 I’ve also working with a Brazilian provider of employee benefit cards (such as meal and food vouchers), and their digital wallet platform for managing and spending these benefits online.
